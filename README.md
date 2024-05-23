@@ -1,3 +1,4 @@
+# Cats and Dogs Docker Classification
 This project demonstrates a simple web application that predicts whether an uploaded image contains a cat or not. It uses a pretrained machine learning model (h5 format). It is deployed using Flask and containerized using docker.
 
 # Docker Deployment
@@ -17,4 +18,4 @@ https://github.com/Shreyaas-Aditya/cats_and_dogs_docker_classification/assets/15
   
 # Model link : https://huggingface.co/spaces/Sa-m/Dogs-vs-Cats/blob/main/best_model.h5
 
-# Docker hub: https://hub.docker.com/repository/docker/suthekshan/flask_docker/general
+# Docker hub: https://hub.docker.com/r/shreyaasaditya13/flask_docker
